@@ -1,0 +1,21 @@
+h1 {
+	color: red;
+}
+
+p {
+	color: black;
+	background-color: yellow;
+}
+
+ul > li {
+	color: blue;
+	background-color: hotpink;
+}
+
+ol > li > a{
+	text-decoration: none;
+	color: red;
+}
+ q {
+ 	background-color: red;
+}
